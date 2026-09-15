@@ -33,11 +33,6 @@ Learning journey documented day-by-day:
 - **[Day 3](./D3.md)** - Fail2Ban configuration, intrusion prevention testing
 - **[Day 4](./D4.md)** - Attack simulations, firewall verification, nmap scanning
 
-**Also documented:**
-- [Linux Fundamentals](./Linux_Fundamental.md)
-- [Windows Fundamentals](./WindowsFundamentals.md)
-- [Active Directory Basics](./ActiveDirectory.md)
-- [Windows Command Line](./WindowsCommandLine.md)
 
 ---
 
@@ -110,8 +105,3 @@ Most cybersecurity students learn theory. This project demonstrates **practical 
 - ✅ Daily documentation
 - 🔄 Adding advanced features (MFA, IDS, etc.)
 
----
-
-**Last Updated:** 2026-09-15  
-**Status:** 🚀 Active Development  
-**Certifications:** ISC2 Certified in Cybersecurity (CC) - Valid to Aug 31, 2029
