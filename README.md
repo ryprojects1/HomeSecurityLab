@@ -26,4 +26,92 @@ This lab demonstrates core security concepts including firewall configuration, i
 
 ## Documentation
 
-Learnin
+Learning journey documented day-by-day:
+
+- **[Day 1](./D1.md)** - Initial setup, Linux basics, Ubuntu VM configuration
+- **[Day 2](./D2.md)** - Firewall rules, SSH setup, port forwarding
+- **[Day 3](./D3.md)** - Fail2Ban configuration, intrusion prevention testing
+- **[Day 4](./D4.md)** - Attack simulations, firewall verification, nmap scanning
+
+**Also documented:**
+- [Linux Fundamentals](./Linux_Fundamental.md)
+- [Windows Fundamentals](./WindowsFundamentals.md)
+- [Active Directory Basics](./ActiveDirectory.md)
+- [Windows Command Line](./WindowsCommandLine.md)
+
+---
+
+## Upcoming Features
+
+🔄 **Multi-Factor Authentication (MFA)** - Security questions with randomization  
+🛡️ **DDoS Rate Limiting** - Connection attempt throttling  
+🔍 **Intrusion Detection System (IDS)** - Network-level threat detection  
+🔐 **Log Encryption** - Protect logs from tampering  
+🌐 **Web Server Hardening** - Deploy and secure a web application  
+
+---
+
+## Key Learning Outcomes
+
+- Firewall architecture and least-privilege access control
+- SSH hardening and remote access security
+- Intrusion prevention and automatic threat response
+- Log analysis and security monitoring
+- Attack simulation and defensive testing
+
+---
+
+## Tech Stack
+
+- **OS:** Ubuntu 24.04 LTS (ARM64)
+- **Hypervisor:** UTM (M1 Mac compatible)
+- **Firewall:** UFW
+- **IPS:** Fail2Ban
+- **Remote Access:** SSH
+- **Monitoring:** System logs, auth logs
+
+---
+
+## Skills Demonstrated
+
+🔐 Linux system administration  
+🛡️ Network security fundamentals  
+🤖 Automation and scripting  
+📊 Log analysis and monitoring  
+🧪 Security testing and simulations  
+
+---
+
+## Getting Started
+
+This lab is documented for learning purposes. To build something similar:
+
+1. Set up a Linux VM (Ubuntu recommended)
+2. Configure UFW firewall rules
+3. Harden SSH with key-based authentication
+4. Deploy Fail2Ban for intrusion prevention
+5. Monitor logs for security events
+6. Test with simulations (nmap, brute force, etc.)
+
+Detailed guides in the documentation links above.
+
+---
+
+## Why This Matters
+
+Most cybersecurity students learn theory. This project demonstrates **practical implementation** of real security concepts on actual systems — exactly what employers want to see.
+
+---
+
+## Progress
+
+- ✅ Core security stack complete
+- ✅ Attack simulations verified
+- ✅ Daily documentation
+- 🔄 Adding advanced features (MFA, IDS, etc.)
+
+---
+
+**Last Updated:** 2026-09-15  
+**Status:** 🚀 Active Development  
+**Certifications:** ISC2 Certified in Cybersecurity (CC) - Valid to Aug 31, 2029
