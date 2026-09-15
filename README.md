@@ -1,10 +1,29 @@
 # HomeSecurityLab
-Building a home security lab from scratch. Used Claude as a guideline.
 
-Docuementing down everything that I've built with timestamps and honest thoughts/ feedback throughout.
+Building a complete home security lab from scratch on an M1 MacBook Pro running Ubuntu in UTM. This repository documents my journey learning cybersecurity fundamentals through hands-on implementation.
 
-Been posting my journey on my instagram
+**Instagram Journey:** [@ryprojects1](https://instagram.com/ryprojects1)
 
-What I've built: set up custom ufw rules, SSH setup (able to use my terminal to remotely access my vm), fail2ban, log monitoring.
+---
 
-Upcoming ideas: MFA, DDoS Rate Limiting, IDS, Log Encryption,Web Server Hardening
+## Project Overview
+
+This lab demonstrates core security concepts including firewall configuration, intrusion prevention, SSH hardening, and log monitoring. Built with minimal resources, emphasizing understanding over complexity.
+
+---
+
+## What I've Built
+
+### Core Security Stack
+
+✅ **UFW Firewall** - Custom firewall rules with principle of least privilege  
+✅ **SSH Hardening** - Remote access via port forwarding with key-based authentication  
+✅ **Fail2Ban** - Automated intrusion prevention with configurable login thresholds  
+✅ **Log Monitoring** - Real-time analysis of system and authentication logs  
+✅ **Attack Simulations** - Tested firewall and intrusion prevention with nmap and brute-force attempts  
+
+---
+
+## Documentation
+
+Learnin
