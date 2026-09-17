@@ -69,32 +69,11 @@ Learning journey documented day-by-day:
 
 ## Skills Demonstrated
 
-🔐 Linux system administration  
-🛡️ Network security fundamentals  
-🤖 Automation and scripting  
-📊 Log analysis and monitoring  
-🧪 Security testing and simulations  
-
----
-
-## Getting Started
-
-This lab is documented for learning purposes. To build something similar:
-
-1. Set up a Linux VM (Ubuntu recommended)
-2. Configure UFW firewall rules
-3. Harden SSH with key-based authentication
-4. Deploy Fail2Ban for intrusion prevention
-5. Monitor logs for security events
-6. Test with simulations (nmap, brute force, etc.)
-
-Detailed guides in the documentation links above.
-
----
-
-## Why This Matters
-
-Most cybersecurity students learn theory. This project demonstrates **practical implementation** of real security concepts on actual systems — exactly what employers want to see.
+Linux system administration  
+Network security fundamentals  
+Automation and scripting  
+Log analysis and monitoring  
+Security testing and simulations  
 
 ---
 
