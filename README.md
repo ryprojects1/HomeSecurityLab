@@ -21,7 +21,7 @@ This lab demonstrates core security concepts including firewall configuration, i
 ✅ **Fail2Ban** - Automated intrusion prevention with configurable login thresholds  
 ✅ **Log Monitoring** - Real-time analysis of system and authentication logs  
 ✅ **Attack Simulations** - Tested firewall and intrusion prevention with nmap and brute-force attempts  
-
+✅ **Multi-Factor Authentication (MFA)** - Security questions with randomization  
 ---
 
 ## Documentation
@@ -32,13 +32,12 @@ Learning journey documented day-by-day:
 - **[Day 2](./D2.md)** - Firewall rules, SSH setup, port forwarding
 - **[Day 3](./D3.md)** - Fail2Ban configuration, intrusion prevention testing
 - **[Day 4](./D4.md)** - Attack simulations, firewall verification, nmap scanning
-
+- **[Day 5](./D5.md)** -  Security questions with randomization
 
 ---
 
 ## Upcoming Features
 
-🔄 **Multi-Factor Authentication (MFA)** - Security questions with randomization  
 🛡️ **DDoS Rate Limiting** - Connection attempt throttling  
 🔍 **Intrusion Detection System (IDS)** - Network-level threat detection  
 🔐 **Log Encryption** - Protect logs from tampering  
